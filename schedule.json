@@ -73,26 +73,26 @@
   },
   {
     "date": "11-11-2026",
-    "time": "7:00 AM",
+    "time": "6:30 AM",
     "grade": 10,
     "class": "Mathematics",
-    "topic": "Triangles - 6.3 continued",
+    "topic": "Triangles - 6.3 Q8 - Q16",
     "tone": "math"
   },
   {
     "date": "11-11-2026",
-    "time": "8:40 AM",
+    "time": "8:15 AM",
     "grade": 7,
     "class": "Science",
-    "topic": "Reproduction in plants - Types of flowers ; Pollination ; Fertilization",
+    "topic": "Reproduction in plants - Pollination ; Fertilization ; Seed formation and dispersal",
     "tone": "science"
   },
   {
     "date": "11-11-2026",
-    "time": "9:45 AM",
+    "time": "9:00AM",
     "grade": 8,
     "class": "Mathematics",
-    "topic": "Algebraic expressions completed ",
+    "topic": "Algebraic expressions Multiply and Division ",
     "tone": "math"
   },{
     "date": "15-11-2026",
@@ -114,6 +114,13 @@
     "grade": 8,
     "class": "Mathematics",
     "topic": "Algebraic expressions MCQ Test",
+    "tone": "test"
+  },{
+    "date": "15-11-2026",
+    "time": "9.00AM",
+    "grade": 9,
+    "class": "Mathematics",
+    "topic": "Tissues MCQ Test",
     "tone": "test"
   }
 ]
