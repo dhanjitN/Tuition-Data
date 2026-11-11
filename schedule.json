@@ -94,7 +94,40 @@
     "class": "Mathematics",
     "topic": "Algebraic expressions Multiply and Division ",
     "tone": "math"
-  },{
+  },
+  {
+    "date": "12-11-2026",
+    "time": "7:15AM",
+    "grade": 8,
+    "class": "Mathematics",
+    "topic": "Exercise Question Disussion",
+    "tone": "math"
+  },
+  {
+    "date": "12-11-2026",
+    "time": "2:15PM",
+    "grade": 7,
+    "class": "Science",
+    "topic": "Seed Dispersal + Exercise Question Disussion",
+    "tone": "science"
+  },
+  {
+    "date": "12-11-2026",
+    "time": "3:30PM",
+    "grade": 10,
+    "class": "Mathematics",
+    "topic": "Triangles MCQ Discussion + left over questions ",
+    "tone": "math"
+  },
+  {
+    "date": "12-11-2026",
+    "time": "5.00PM",
+    "grade": 5,
+    "class": "Mathematics",
+    "topic": " ",
+    "tone": "math"
+  },
+  {
     "date": "15-11-2026",
     "time": "9.00AM",
     "grade": 10,
