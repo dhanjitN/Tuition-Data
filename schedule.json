@@ -120,13 +120,31 @@
     "tone": "math"
   },
   {
-    "date": "12-11-2026",
-    "time": "5.00PM",
-    "grade": 5,
+    "date": "13-11-2026",
+    "time": "2.15PM",
+    "grade": 7,
     "class": "Mathematics",
-    "topic": " ",
+    "topic": "Algebraic expressions ",
     "tone": "math"
   },
+  {
+    "date": "13-11-2026",
+    "time": "2.15PM",
+    "grade": 8,
+    "class": "Science",
+    "topic": " Force and Pressure -> Numerical Questions ",
+    "tone": "science"
+  },
+  {
+    "date": "13-11-2026",
+    "time": "3.30PM",
+    "grade": 10,
+    "class": "Mathematics",
+    "topic": " Triangles MCQ ",
+    "tone": "math"
+  },
+
+
   {
     "date": "15-11-2026",
     "time": "9.00AM",
@@ -152,7 +170,7 @@
     "date": "15-11-2026",
     "time": "9.00AM",
     "grade": 9,
-    "class": "Mathematics",
+    "class": "Science",
     "topic": "Tissues MCQ Test",
     "tone": "test"
   }
