@@ -14,6 +14,7 @@
   { "name": "Partha", "student_id": "8-3", "grade": 8, "points": 29 },
   { "name": "Sujay", "student_id": "8-4", "grade": 8, "points": 0 },
   { "name": "Swarnim", "student_id": "8-5", "grade": 8, "points": 33 },
+  {"name": "Nayanjyoti", "student_id": "9-1", "grade": 9, "points": 0},
   { "name": "Khyam", "student_id": "10-1", "grade": 10, "points": 30 },
   { "name": "Saires", "student_id": "10-2", "grade": 10, "points": 26 },
   { "name": "Shradha", "student_id": "10-3", "grade": 10, "points": 3 },
