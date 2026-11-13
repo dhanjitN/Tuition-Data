@@ -6,7 +6,7 @@
   { "name": "Prashna", "student_id": "5-2", "grade": 5, "points": 0 },
   { "name": "Ankita", "student_id": "7-1", "grade": 7, "points": 33 },
   { "name": "Anup", "student_id": "7-2", "grade": 7, "points": 0 },
-  { "name": "Kunjal", "student_id": "7-3", "grade": 7, "points": 0 },
+  { "name": "Kunjal", "student_id": "7-3", "grade": 7, "points": 3 },
   { "name": "Leena", "student_id": "7-4", "grade": 7, "points": 33 },
   { "name": "Subungshri", "student_id": "7-5", "grade": 7, "points": 33 },
   { "name": "Bijay", "student_id": "8-1", "grade": 8, "points": 3 },
