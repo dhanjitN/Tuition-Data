@@ -5,7 +5,8 @@
     "grade": 10,
     "class": "Mathematics",
     "topic": "Triangles Intro",
-    "tone": "math"
+    "tone": "math",
+    "points":""
   },
   {
     "date": "07-11-2026",
@@ -13,7 +14,8 @@
     "grade": 7,
     "class": "Science",
     "topic": "Reproduction in plants",
-    "tone": "science"
+    "tone": "science",
+    "points": ""
   },
   {
     "date": "07-11-2026",
@@ -21,7 +23,8 @@
     "grade": 8,
     "class": "Mathematics",
     "topic": "Algebraic expressions",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "09-11-2026",
@@ -29,7 +32,8 @@
     "grade": 10,
     "class": "Mathematics",
     "topic": "Triangles - 6.2",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "09-11-2026",
@@ -37,7 +41,8 @@
     "grade": 8,
     "class": "Mathematics",
     "topic": "Algebraic expressions",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "09-11-2026",
@@ -45,7 +50,8 @@
     "grade": 7,
     "class": "Science",
     "topic": "Reproduction in plants - Microorganisms ; vegetative propagation",
-    "tone": "science"
+    "tone": "science",
+    "points": ""
   },
   {
     "date": "10-11-2026",
@@ -53,7 +59,8 @@
     "grade": 10,
     "class": "Mathematics",
     "topic": "Triangles - 6.3 start ",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "10-11-2026",
@@ -61,7 +68,8 @@
     "grade": 7,
     "class": "Science",
     "topic": "Reproduction in plants - Aritifical methods ; structure of a flower",
-    "tone": "science"
+    "tone": "science",
+    "points": ""
   },
   {
     "date": "10-11-2026",
@@ -69,7 +77,8 @@
     "grade": 8,
     "class": "Mathematics",
     "topic": "Algebraic expressions exercises",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "11-11-2026",
@@ -77,7 +86,8 @@
     "grade": 10,
     "class": "Mathematics",
     "topic": "Triangles - 6.3 Q8 - Q16",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "11-11-2026",
@@ -85,7 +95,8 @@
     "grade": 7,
     "class": "Science",
     "topic": "Reproduction in plants - Pollination ; Fertilization ; Seed formation and dispersal",
-    "tone": "science"
+    "tone": "science",
+    "points": ""
   },
   {
     "date": "11-11-2026",
@@ -93,7 +104,8 @@
     "grade": 8,
     "class": "Mathematics",
     "topic": "Algebraic expressions Multiply and Division ",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "12-11-2026",
@@ -101,7 +113,8 @@
     "grade": 8,
     "class": "Mathematics",
     "topic": "Exercise Question Disussion",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "12-11-2026",
@@ -109,7 +122,8 @@
     "grade": 7,
     "class": "Science",
     "topic": "Seed Dispersal + Exercise Question Disussion",
-    "tone": "science"
+    "tone": "science",
+    "points": ""
   },
   {
     "date": "12-11-2026",
@@ -117,7 +131,8 @@
     "grade": 10,
     "class": "Mathematics",
     "topic": "Triangles MCQ Discussion + left over questions ",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "13-11-2026",
@@ -125,7 +140,8 @@
     "grade": 7,
     "class": "Mathematics",
     "topic": "Algebraic expressions ",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
   {
     "date": "13-11-2026",
@@ -133,7 +149,8 @@
     "grade": 8,
     "class": "Science",
     "topic": " Force and Pressure -> Numerical Questions ",
-    "tone": "science"
+    "tone": "science",
+    "points": ""
   },
   {
     "date": "13-11-2026",
@@ -141,7 +158,8 @@
     "grade": 10,
     "class": "Mathematics",
     "topic": " Triangles MCQ ",
-    "tone": "math"
+    "tone": "math",
+    "points": ""
   },
 
 
@@ -151,27 +169,31 @@
     "grade": 10,
     "class": "Mathematics",
     "topic": "Triangles MCQ Test",
-    "tone": "test"
+    "tone": "test",
+    "points": ""
   },{
     "date": "15-11-2026",
     "time": "9.00AM",
     "grade": 7,
     "class": "Science",
     "topic": "Reproduction in plants MCQ Test",
-    "tone": "test"
+    "tone": "test",
+    "points": ""
   }, {
     "date": "15-11-2026",
     "time": "9.00AM",
     "grade": 8,
     "class": "Mathematics",
     "topic": "Algebraic expressions MCQ Test",
-    "tone": "test"
+    "tone": "test",
+    "points": ""
   },{
     "date": "15-11-2026",
     "time": "9.00AM",
     "grade": 9,
     "class": "Science",
     "topic": "Tissues MCQ Test",
-    "tone": "test"
+    "tone": "test",
+    "points": ""
   }
 ]
