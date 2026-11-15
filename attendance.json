@@ -342,5 +342,23 @@
         "points": 20
       }
     ]
+  },
+  {
+    "date": "15-11-2026",
+    "grade": 10,
+    "students": [
+      {
+        "student_id": "10-1",
+        "points": 15
+      },
+      {
+        "student_id": "10-2",
+        "points": 9
+      },
+      {
+        "student_id": "10-3",
+        "points": 9
+      }
+    ]
   }
 ]
