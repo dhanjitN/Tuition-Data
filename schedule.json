@@ -143,8 +143,6 @@
     "topic": " Triangles MCQ ",
     "tone": "math"
   },
-
-
   {
     "date": "15-11-2026",
     "time": "10.00AM",
@@ -152,26 +150,53 @@
     "class": "Mathematics",
     "topic": "Triangles MCQ Test",
     "tone": "test"
-  },{
+  },
+  {
     "date": "15-11-2026",
     "time": "10.00AM",
     "grade": 7,
     "class": "Science",
     "topic": "Reproduction in plants MCQ Test",
     "tone": "test"
-  }, {
+  },
+  {
     "date": "15-11-2026",
     "time": "10.00AM",
     "grade": 8,
     "class": "Mathematics",
     "topic": "Algebraic expressions MCQ Test",
     "tone": "test"
-  },{
+  },
+  {
     "date": "15-11-2026",
     "time": "10.00AM",
     "grade": 9,
     "class": "Science",
     "topic": "Tissues MCQ Test",
     "tone": "test"
+  },
+  {
+    "date": "16-11-2026",
+    "time": "02:00 PM",
+    "grade": 7,
+    "class": "Mathematics",
+    "topic": "Algebraic Expression - Start",
+    "tone": "math"
+  },
+  {
+    "date": "16-11-2026",
+    "time": "02:00 PM",
+    "grade": 8,
+    "class": "Science",
+    "topic": "SCIENCE New Chapter",
+    "tone": "science"
+  },
+  {
+    "date": "16-11-2026",
+    "time": "02:00 PM",
+    "grade": 10,
+    "class": "Science",
+    "topic": "Electricity : Start",
+    "tone": "science"
   }
 ]

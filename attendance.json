@@ -292,5 +292,55 @@
         "points": 0
       }
     ]
+  },
+  {
+    "date": "15-11-2026",
+    "grade": 7,
+    "students": [
+      {
+        "student_id": "7-1",
+        "points": 16
+      },
+      {
+        "student_id": "7-3",
+        "points": 13
+      },
+      {
+        "student_id": "7-4",
+        "points": 19
+      },
+      {
+        "student_id": "7-5",
+        "points": 17
+      }
+    ]
+  },
+  {
+    "date": "15-11-2026",
+    "grade": 8,
+    "students": [
+      {
+        "student_id": "8-2",
+        "points": 11
+      },
+      {
+        "student_id": "8-3",
+        "points": 6
+      },
+      {
+        "student_id": "8-5",
+        "points": 14
+      }
+    ]
+  },
+  {
+    "date": "15-11-2026",
+    "grade": 9,
+    "students": [
+      {
+        "student_id": "9-1",
+        "points": 20
+      }
+    ]
   }
 ]
