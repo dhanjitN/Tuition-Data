@@ -174,29 +174,5 @@
     "class": "Science",
     "topic": "Tissues MCQ Test",
     "tone": "test"
-  },
-  {
-    "date": "16-11-2026",
-    "time": "09:15 AM",
-    "grade": 8,
-    "class": "Science",
-    "topic": "SCIENCE NEW CHAPTER",
-    "tone": "science"
-  },
-  {
-    "date": "16-11-2026",
-    "time": "09:15 AM",
-    "grade": 7,
-    "class": "Mathematics",
-    "topic": "Algebraic Expression",
-    "tone": "math"
-  },
-  {
-    "date": "16-11-2026",
-    "time": "07:30 AM",
-    "grade": 10,
-    "class": "Science",
-    "topic": "Electricity [ Start]",
-    "tone": "science"
   }
 ]
