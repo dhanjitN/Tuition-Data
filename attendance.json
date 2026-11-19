@@ -370,5 +370,105 @@
         "points": 10
       }
     ]
+  },
+  {
+    "date": "18-11-2026",
+    "grade": 10,
+    "students": [
+      {
+        "student_id": "10-1",
+        "points": 7
+      },
+      {
+        "student_id": "10-2",
+        "points": 10
+      },
+      {
+        "student_id": "10-3",
+        "points": 10
+      },
+      {
+        "student_id": "10-4",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "date": "18-11-2026",
+    "grade": 8,
+    "students": [
+      {
+        "student_id": "8-2",
+        "points": 7
+      },
+      {
+        "student_id": "8-3",
+        "points": 7
+      },
+      {
+        "student_id": "8-4",
+        "points": 3
+      },
+      {
+        "student_id": "8-5",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "date": "18-11-2026",
+    "grade": 7,
+    "students": [
+      {
+        "student_id": "7-1",
+        "points": 10
+      },
+      {
+        "student_id": "7-2",
+        "points": 3
+      },
+      {
+        "student_id": "7-3",
+        "points": 10
+      },
+      {
+        "student_id": "7-4",
+        "points": 10
+      },
+      {
+        "student_id": "7-5",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "date": "18-11-2026",
+    "grade": 6,
+    "students": [
+      {
+        "student_id": "6-1",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "date": "18-11-2026",
+    "grade": 5,
+    "students": [
+      {
+        "student_id": "5-2",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "date": "18-11-2026",
+    "grade": 3,
+    "students": [
+      {
+        "student_id": "3-1",
+        "points": 3
+      }
+    ]
   }
 ]
