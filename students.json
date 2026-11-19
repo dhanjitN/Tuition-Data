@@ -33,7 +33,7 @@
     "name": "Ankita",
     "student_id": "7-1",
     "grade": 7,
-    "points": 59
+    "points": 62
   },
   {
     "name": "Anup",
@@ -45,37 +45,37 @@
     "name": "Kunjal",
     "student_id": "7-3",
     "grade": 7,
-    "points": 26
+    "points": 29
   },
   {
     "name": "Leena",
     "student_id": "7-4",
     "grade": 7,
-    "points": 62
+    "points": 65
   },
   {
     "name": "Subungshri",
     "student_id": "7-5",
     "grade": 7,
-    "points": 60
+    "points": 63
   },
   {
     "name": "Bijay",
     "student_id": "8-1",
     "grade": 8,
-    "points": 3
+    "points": 6
   },
   {
     "name": "Dhanjit",
     "student_id": "8-2",
     "grade": 8,
-    "points": 50
+    "points": 53
   },
   {
     "name": "Partha",
     "student_id": "8-3",
     "grade": 8,
-    "points": 42
+    "points": 47
   },
   {
     "name": "Sujay",
@@ -87,7 +87,7 @@
     "name": "Swarnim",
     "student_id": "8-5",
     "grade": 8,
-    "points": 57
+    "points": 60
   },
   {
     "name": "Nayanjyoti",
@@ -99,24 +99,24 @@
     "name": "Khyam",
     "student_id": "10-1",
     "grade": 10,
-    "points": 45
+    "points": 48
   },
   {
     "name": "Saires",
     "student_id": "10-2",
     "grade": 10,
-    "points": 51
+    "points": 54
   },
   {
     "name": "Shradha",
     "student_id": "10-3",
     "grade": 10,
-    "points": 22
+    "points": 25
   },
   {
     "name": "Suman",
     "student_id": "10-4",
     "grade": 10,
-    "points": 10
+    "points": 13
   }
 ]
